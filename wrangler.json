@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "hallidayglobal-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6c18f2bb-8c39-4728-ae17-1efe6e46318d",
+      "database_name": "d1-template-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
